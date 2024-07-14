@@ -1,0 +1,19 @@
+/* {
+        "key": "tab",
+        "command": "cursorEnd",
+        "when": "text Input Focus && !suggestWidgetHasFocusedSuggestion" //&& !suggestWidgetVisible
+   },
+
+   {
+        "key": "cmd+r",
+        "command": "dart.rerunLastDebugSession",
+        "when": "dart-code:anyProjectLoaded && dart-code:hasLastDebugConfig && !inDebugMode"
+    },
+
+    Command+Shift+\   jumpToBracket     
+    
+    TabOut
+
+    
+    
+    */
